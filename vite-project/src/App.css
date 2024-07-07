@@ -1,0 +1,37 @@
+body{
+  background-color:#1c2226;
+}
+
+@media screen and (max-width: 500px) {
+  #test{
+    margin-top: 110vw;
+  }
+
+  #gambar1{
+    margin-right: -40px ;
+    width: 30vw;
+    height: 40vw;
+  }
+
+  #gambar2{
+    margin-top: 12em;
+    width: 50vw;
+    height: 30vw;
+  }
+  
+  #gambar3{
+    margin-top: 2em;
+    width: 60vw;
+    height: 40vw;
+  }
+
+  #link{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #link p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100vw;
+    width: 100vw;
+    height: 40px;
+  }
+}
